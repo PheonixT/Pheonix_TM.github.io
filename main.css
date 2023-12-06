@@ -67,10 +67,10 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #ccc;
     padding: 4rem 0 3rem;
     font-size: 2.5rem;
-    text-shadow: 1px 1px 15px #fff;
+    text-shadow: 0 5px 10px rgba(0, 0,0,1);
 }
 
 .home-description{
